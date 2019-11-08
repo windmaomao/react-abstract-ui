@@ -1,9 +1,11 @@
 {
-  "name": "react-navigable",
-  "version": "1.0.1",
+  "name": "react-abstract-ui",
+  "version": "1.0.0",
   "description": "Common behavior of tracking list of items and navigating them via user interaction.",
   "main": "dist/index.js",
-  "dependencies": {},
+  "dependencies": {
+    "react-core-ui": "^1.0.27"
+  },
   "devDependencies": {
     "@babel/core": "^7.6.4",
     "@babel/preset-env": "^7.6.3",
