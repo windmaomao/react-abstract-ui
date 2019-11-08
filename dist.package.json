@@ -1,0 +1,28 @@
+{
+  "name": "react-navigable",
+  "version": "1.0.1",
+  "description": "Common behavior component for navigating a list of flat items with goto, next and prev capability, therefore useful to help create components such as Paginator, Carousel or Table etc.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/windmaomao/react-navigable"
+  },
+  "keywords": [
+    "React",
+    "Navigation",
+    "Pagination",
+    "Table",
+    "Carousel"
+  ],
+  "peerDependencies": {
+    "prop-types": "^15.7.2",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2"
+  },
+  "author": "Fang Jin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/windmaomao/react-navigable/issues"
+  },
+  "homepage": "https://github.com/windmaomao/react-navigable"
+}
