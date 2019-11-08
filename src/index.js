@@ -1,2 +1,1 @@
-const i = 1
-export default i
+export { default as Button } from './Button'
